@@ -1,0 +1,148 @@
+/*font-family: 'Abril Fatface', cursive;
+ font-family: 'Bangers', cursive;
+*/
+
+#contenidos{
+	width: 1000px;
+	height: 3000px;
+	margin:50px;
+	position: relative;
+		
+
+}
+
+/*ETIQUETAS*/
+body{
+background-image: url(../img/fondo.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+h1{
+font-family: 'Bangers', cursive;
+color: black;
+margin-left: 10px;
+font-size: 40px;
+text-align: center; 
+}
+h2{
+font-family: 'Abril Fatface', cursive;
+color: black;
+margin-left: 10px;
+font-size: 30px;
+text-align: left; 
+}
+
+h3{
+font-family: 'Bangers', cursive;
+color: red;
+font-size: 22px;
+text-align: center; 
+}
+
+
+header{
+	width: 700px;
+	height: 120 px;
+	background: rgba(255, 255, 255, 10, 70);
+}
+
+nav{
+width: 800px;
+height: 55px;
+background: red;
+border-radius: 8px;
+
+
+}
+ul{
+margin: auto;
+padding-top: 2px;
+}
+
+li{
+	float: left;
+	list-style-type: none;
+	padding: 15px;
+	background: white;
+	margin: 2px;
+	border-radius: 15px;
+	box-shadow: 0 0 15px red ouset; 
+
+}
+
+section{
+	width: 700px;
+	background: gray;
+	height: 400px;
+	float: center;
+	margin-top: 22px;
+	border-radius: 12px;
+}
+aside{
+
+	width: 200px;
+	background: maroon;
+	height: 350px;
+	float: right;
+	margin-left: 36px;
+	margin-top: 18px;
+	border-radius: 10px;
+}
+
+footer{
+width: 800px;
+height: 45px;
+background: white;
+float: left;
+margin-top: 20px;
+border-radius: 10px;
+margin-bottom: 20px;
+}
+
+p{
+
+	font-size: 14px;
+	font-weight: bolder;
+	margin-left: 20px;
+	line-height: 35px;
+	padding: 12px;
+	text-align: justify;
+}
+
+
+
+
+/*CLASES*/
+
+.ancho_menu_home{width: 800px;}
+.ancho_menu_paginas{width: 800px;}
+
+.menu:link{color: black; text-decoration: none;}
+.menu:visited{color: black; text-decoration: none;}
+.menu:hover{color: black; text-decoration: none; text-shadow: 0 0 13px red;}
+.menu:active{color: black; text-decoration: none;}
+
+/*SEUDO CLASES*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
